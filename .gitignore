@@ -2,8 +2,14 @@
 private-key.asc
 private-key.asc.b64
 
-# # Plaintext strategy (never commit this to keep your strategy hidden!)
-# strategy.py
+# Plaintext strategy (never commit this to keep your strategy hidden!)
+strategy.py
+
+# Runtime state
+stats.json
+
+# Encryption key
+encryption_key.txt
 
 # Python
 .venv/
